@@ -1,8 +1,10 @@
 <div id="header" align="center">
   <h2>Hi 👋 I'm Muhammad Umar</h2>
   <div id="badges">
-      <h3 style="margin-top: -10px;">Entrepreneur | Mentor | Senior Software Engineer | AI Enthusiast
-      </h3><a href="https://www.linkedin.com/in/sudheer-jonna-b9009142/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge"> </a>  <a href="https://neberox.com"><img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&amp;logo=house&amp;logoColor=white" alt="Website Badge"> </a>
+      <h3 style="margin-top: -10px;">Entrepreneur | Mentor | Senior Software Engineer | AI Enthusiast</h3>
+      <a href="https://www.linkedin.com/in/muhammad-umar-sse"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge"></a>  
+      <a href="https://github.com/zelin/app-Portfolio"><img src="https://img.shields.io/badge/Portfolio-%228B22?style=for-the-badge&logo=house&logoColor=white" alt="Portfolio Badge"> </a>
+      <a href="https://neberox.com"><img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&amp;logo=house&amp;logoColor=white" alt="Website Badge"> </a>
   </div>
 </div>
 
@@ -49,7 +51,7 @@ Feel free to schedule a meeting with me using the "Book Now" button
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg" title="Php" alt="Php" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40">
 </div>
 
