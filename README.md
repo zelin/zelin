@@ -37,6 +37,7 @@ Feel free to schedule a meeting with me using the "Book Now" button
 
 #### 👨‍💻 Skills :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android " width="40" height="40">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS" alt="iOS" width="40" height="40">
 </div>
