@@ -10,7 +10,7 @@
 
 #### 🌟 About Me :
 
-I am a senior software engineer, a mentor and an entrepreneur from <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Lahore, Pakistan.
+I am a staff software engineer, a mentor and an entrepreneur from <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Lahore, Pakistan.
 Advocate of best coding practices and agile development
 Expert in cross-platform and native code development for iOS and Android
 Experienced in crafting successful mobile products with elegant interfaces
